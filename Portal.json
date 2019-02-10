@@ -5,6 +5,7 @@
     "description": "Shadowsocks",
     "categories": ["docker"],
     "platform": "linux",
+    "logo": "https://raw.githubusercontent.com/collizw/Portal/master/Logo/Shadowsocks.png",
     "image": "mritd/shadowsocks:latest",
     "ports": [
       "6433/tcp",
